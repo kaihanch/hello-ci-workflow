@@ -1,0 +1,9 @@
+# Git
+.git
+
+# Dockerfile
+Dockerfile
+.dockerignore
+
+# Dependency directories
+node_modules
