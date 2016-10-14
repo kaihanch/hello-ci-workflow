@@ -1,4 +1,5 @@
 # hello-ci-workflow
+[![CircleCI](https://circleci.com/gh/kaihanch/hello-ci-workflow/tree/master.svg?style=svg)](https://circleci.com/gh/kaihanch/hello-ci-workflow/tree/master)
 
 ## Target
 偵測 GitHub 分支上的程式碼，若有更新則觸發 CircleCI 執行:
